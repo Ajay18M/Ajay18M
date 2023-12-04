@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajay18M
-- 👀 I’m interested in web development and Software Development.
-- 🌱 I’m currently learning React.js,Angular like development tools.
-- 💞️ I’m looking to collaborate on your company 
+- 👀 I’m interested in Software development and Cyber security and Ethical Hacking.
+- 🌱 I’m currently learning React.js,Angular like development tools and cyber security tools.
+- 💞️ I’m looking to collaborate on your company with my knowledge and gain more to gain my skills.
 - 📫 How to reach me ajaymanjunathan05@gmail.com
 
 <!---
